@@ -1,4 +1,5 @@
 ## Nada é para sempre 👋
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F546413367292439512%2F&psig=AOvVaw2nAL64nl7IdDcOqTMA-zM8&ust=1717675855116000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKD0_6y3xIYDFQAAAAAdAAAAABBj)
 
 <!--
 **GustavoMacedo7/GustavoMacedo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
